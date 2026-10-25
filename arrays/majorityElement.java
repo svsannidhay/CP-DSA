@@ -3,6 +3,8 @@ package arrays;
 import java.util.Arrays;
 import java.util.HashMap;
 
+// LC: https://leetcode.com/problems/majority-element/description/
+
 // Brute Force
 // TC: O(N^2)
 // SC: O(1)
