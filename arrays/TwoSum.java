@@ -2,6 +2,8 @@ package arrays;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+// LC: https://leetcode.com/problems/two-sum/description/
+
 // Brute Force (Check all the unique pairs)
 // TC: O(N^2)
 // SC: O(1)
